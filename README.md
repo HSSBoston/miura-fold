@@ -6,8 +6,13 @@ This is a [Squeak Smalltalk](https://squeak.org/) implementation of a simple alg
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Miura-ori.gif" width="500" />
 </p>
 
+The Miura fold was used for a [spacecraft](https://en.wikipedia.org/wiki/Space_Flyer_Unit) to fold its large solar panel array before launch (so that it can reduce its volume and fit in the space of a rocket) and unfold the panel array in space . 
 
-https://upload.wikimedia.org/wikipedia/commons/3/33/STS072-720-042.jpg
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/STS072-720-042.jpg" width="500" />
+</p>
 
 peacock
 
