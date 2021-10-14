@@ -11,7 +11,7 @@ Its folding and unfolding are very satisfying!
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Miura-ori.gif" width="500" />
 </p>
 
-This Squeak code can generate the crease patterns of the Miura fold, which form a tessellation of parallelograms. If you print out a generated crease pattern on a sheet of paper (a letter-sized paper, for example), it guides you to complete the Miura fold. 
+This Squeak code can generate the crease patterns of the Miura fold, which form a tessellation of parallelograms. If you print out a generated crease pattern on a sheet of paper (a letter-sized paper, for example), it helps you experience and complete the Miura fold. 
 
 <p align="center">
   <img src="images/miura-desktop.jpg" width="800" />
