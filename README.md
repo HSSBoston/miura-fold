@@ -6,5 +6,6 @@ This is a [Squeak Smalltalk](https://squeak.org/) implementation of a simple alg
   <img src="images/miura-desktop.jpg" width="800" />
 </p>
 
-This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). 
+This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). The GeoBot class is implemented by customizing a class that is covered in Stephane Ducasse's awesome book ["Squeak: Learn Programming with Robots (Technology in Action) 1st Corrected ed., Corr. 2nd printing Edition"](https://smile.amazon.com/Squeak-Programming-Robots-Technology-Action/dp/1590594916/).
+
 
