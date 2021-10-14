@@ -1,4 +1,4 @@
-# Origami crease pattern for the Miura fold
+# Origami crease patterns for the Miura fold
 
 This is a [Squeak Smalltalk](https://squeak.org/) implementation of a simple algorithm to generate origami crease patterns (folding diagrams) for the [Miura fold](https://en.wikipedia.org/wiki/Miura_fold). The Miura fold is a method to: 
 
