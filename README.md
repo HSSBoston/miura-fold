@@ -1,4 +1,3 @@
-# Generating a folding diagram for the Miura fold
+# Folding diagram for the Miura fold
 
-Implemented 
-a folding diagram for the [Miura fold](https://en.wikipedia.org/wiki/Miura_fold) Squeak Smalltalk 
+This is a [Squeak Smalltalk](https://squeak.org/) implementation of an algorithm to generate a crease pattern (folding diagram) for the [Miura fold](https://en.wikipedia.org/wiki/Miura_fold). 
