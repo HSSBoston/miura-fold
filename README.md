@@ -20,10 +20,10 @@ This Squeak code can generate the crease patterns of the Miura fold, which form 
 The Miura fold was used for a [spacecraft](https://en.wikipedia.org/wiki/Space_Flyer_Unit) to fold its large solar panel array before launch (so that it can reduce its volume and fit in the space of a rocket) and unfold the panel array in space. 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/STS072-720-042.jpg" width="350" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/STS072-720-042.jpg" width="400" />
 </p>
 
-It is also used in many origami crafts. For example, here is a peacock that I folded. 
+It is also used in many origami crafts. For example, here is a peacock that I folded. Its tail is expressed with the Miura fold. 
 
 <p align="center">
   <img src="images/peacock.jpg" width="500" />
