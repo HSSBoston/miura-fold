@@ -29,6 +29,6 @@ It is also used in many origami crafts. For example, here is a peacock that I fo
   <img src="images/peacock.jpg" width="400" />
 </p>
 
-This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). The GeoBot class is implemented by customizing a class that is covered in Stephane Ducasse's awesome book ["Squeak: Learn Programming with Robots"](https://smile.amazon.com/Squeak-Programming-Robots-Technology-Action/dp/1590594916/).
+This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). It has been tested with Squeak 3.4 and 3.5. The GeoBot class is implemented by customizing a class that is covered in Stephane Ducasse's awesome book ["Squeak: Learn Programming with Robots"](https://smile.amazon.com/Squeak-Programming-Robots-Technology-Action/dp/1590594916/).
 
 I wrote this code in August 2019 to work on a summer research project about the Miura fold. See a research report and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. :smile: 
