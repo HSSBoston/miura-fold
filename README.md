@@ -23,15 +23,12 @@ The Miura fold was used for a [spacecraft](https://en.wikipedia.org/wiki/Space_F
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/STS072-720-042.jpg" width="400" />
 </p>
 
-It is also used in many origami crafts. For example, here is a peacock that I folded. Its tail is expressed with the Miura fold. 
+It is also used in many origami crafts. For example, here is a peacock that I folded. Its tail is expressed with the zig-zag structure of the Miura fold. 
 
 <p align="center">
-  <img src="images/peacock.jpg" width="500" />
+  <img src="images/peacock.jpg" width="400" />
 </p>
 
 This code base is pushed to GitHub with Squeak's Git Browser ([Squot](https://github.com/hpi-swa/Squot)). The GeoBot class is implemented by customizing a class that is covered in Stephane Ducasse's awesome book ["Squeak: Learn Programming with Robots (Technology in Action) 1st Corrected ed., Corr. 2nd printing Edition"](https://smile.amazon.com/Squeak-Programming-Robots-Technology-Action/dp/1590594916/).
 
-
-
-
-I wrote this code in August 2019 to work on a summer research project about the Miura fold. See a research summary report and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. 
+I wrote this code in August 2019 to work on a summer research project about the Miura fold. See a research report and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. :smile: 
