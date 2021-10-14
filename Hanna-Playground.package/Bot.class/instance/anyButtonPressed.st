@@ -1,0 +1,3 @@
+interaction
+anyButtonPressed
+	^BotProcess anyButtonPressed

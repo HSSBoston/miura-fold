@@ -1,0 +1,3 @@
+direction
+down 
+	self south.

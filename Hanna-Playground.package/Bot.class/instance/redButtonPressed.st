@@ -1,0 +1,3 @@
+interaction
+redButtonPressed
+	^BotProcess redButtonPressed

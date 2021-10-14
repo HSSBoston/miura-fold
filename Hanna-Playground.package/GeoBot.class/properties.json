@@ -1,0 +1,17 @@
+{
+	"category" : "Hanna-Playground",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SharedForm",
+		"SharedWindow" ],
+	"commentStamp" : "JS 2/27/2019 17:02",
+	"instvars" : [
+		"pen",
+		"penSize",
+		"visible" ],
+	"name" : "GeoBot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

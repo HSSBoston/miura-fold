@@ -1,0 +1,4 @@
+memory
+memorizedPoints
+
+	^ memorizedPoints

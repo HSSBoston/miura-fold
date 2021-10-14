@@ -1,0 +1,25 @@
+{
+	"category" : "Hanna-Playground",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultDisplaySelector",
+		"DrawSelector",
+		"Halos",
+		"Image" ],
+	"commentStamp" : "sd 1/3/2005 09:19",
+	"instvars" : [
+		"direction",
+		"shown",
+		"penColor",
+		"penSize",
+		"drawSelector",
+		"image",
+		"turtleBuffer",
+		"vars",
+		"memorizedPoints" ],
+	"name" : "Bot",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
